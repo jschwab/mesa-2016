@@ -199,7 +199,7 @@
    !nonnucneu_phot ! photon neutrinos (for reactions like e- + gamma => e- + nu_e + nubar_e)
    !nonnucneu_pair ! pair production (for reactions like e+ + e- => nu_e + nubar_e)
    
-   !extra_heat
+   extra_heat
    !extra_dPdm
    !extra_L ! extra_heat integrated from center (Lsun)
    !log_extra_L ! log10 integrated from center (Lsun)
